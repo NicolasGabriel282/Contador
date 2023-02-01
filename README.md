@@ -14,7 +14,5 @@
       <li>estilo.css: Arquivo CSS que contém os estilos para a página.</li>
       <li>main.js: Arquivo JavaScript que contém a lógica do contador.</li>
     </ul>
-    <h2>Autor</h2>
-    <p>Este código foi escrito por mim.</p>
     <h2>Licença</h2>
     <p>Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.</p>
