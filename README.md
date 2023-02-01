@@ -8,6 +8,7 @@
       <li>Abra o arquivo HTML no navegador de sua escolha.</li>
       <li>Clique nos botões "AUMENTAR", "DIMINUIR" e "RESETAR" para interagir com o contador.</li>
     </ol>
+    <img src="https://user-images.githubusercontent.com/110619692/216167990-6b5dfcb4-6475-4fc6-9ca2-a9e400f00597.gif" >
     <h2>Arquivos</h2>
     <ul>
       <li>index.html: Arquivo HTML que contém a estrutura da página.</li>
@@ -16,3 +17,7 @@
     </ul>
     <h2>Licença</h2>
     <p>Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.</p>
+    
+    
+    
+![2023-02-01 18-29-13](https://user-images.githubusercontent.com/110619692/216167990-6b5dfcb4-6475-4fc6-9ca2-a9e400f00597.gif)
