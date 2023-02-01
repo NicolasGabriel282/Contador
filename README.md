@@ -20,4 +20,3 @@
     
     
     
-![2023-02-01 18-29-13](https://user-images.githubusercontent.com/110619692/216167990-6b5dfcb4-6475-4fc6-9ca2-a9e400f00597.gif)
